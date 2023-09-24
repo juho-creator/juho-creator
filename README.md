@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @juho-creator 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Python, C , and TI BASIC
-- 💞️ I’m looking to collaborate on any python projects
 - 📫 How to reach me  
           email : kjuho2021@gmail.com
         
