@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @juho-creator 
+- 👋 Hi, I’m Juho Kim from South Korea
 - 👀 I’m interested in Crypto Algorithmic Trading and Arbitrage Trading
 - 📫 How to reach me  
           email : kjuho2021@gmail.com
