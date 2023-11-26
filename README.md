@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @juho-creator 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python, C , and TI BASIC
+- 👀 I’m interested in Crypto Algorithmic Trading and Arbitrage Trading
 - 📫 How to reach me  
           email : kjuho2021@gmail.com
         
