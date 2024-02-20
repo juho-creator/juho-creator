@@ -3,7 +3,7 @@
 - :joy: Checkout [My First Website made with ChatGPT](https://juho-creator.github.io/FirstWebsite/)
 - 📫 How to reach me  
           Email : kjuho2021@gmail.com </br>
-          Linkedin : [Click here to see my profile](www.linkedin.com/in/juho-kim-68346b24a)
+          Linkedin : [Click here to see my profile](https://www.linkedin.com/in/juho-kim-68346b24a/)
 
 <!---
 juho-creator/juho-creator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
